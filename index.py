@@ -41,7 +41,7 @@ while True:
                 reward_ratio = 2
 
                 # Resample ke 4 jam (ambil harga terakhir tiap 4 jam)
-                log_file.write('Sedang menganalisa coin = 'crypto)
+                log_file.write('Sedang menganalisa coin = '+crypto)
                 if timeframe == '4h':
                     df = yf.download(crypto, period=scrapselama, interval='1h')
                     df = df.resample("4h").last()
