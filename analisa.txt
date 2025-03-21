@@ -1,0 +1,35 @@
+
+✨ Hasil Analisis Trading = BTC-USD ✨
+📈 Resistance Level : Rp1,305,029,766 / $87001.984
+📉 Support Level    : Rp1,226,322,070 / $81754.805
+💵 Current Level    : Rp1,259,199,492 / $83946.633
+💰 Buying In        : Rp1,265,675,918 / $84378.395
+🎯 Take Profit      : Rp1,331,130,361 / $88742.024
+🚯 Stop Loss        : Rp1,201,795,629 / $80119.709
+🔎 Potensi Akurasi Analisa: 99.35%
+🧙‍♂️ Prediksi Harga dalam 5 hari: Rp1,257,475,750 / $83831.717
+💰 Posisi: SHORT CUY 📉
+
+🔹 Perbandingan Harga:
+- Harga Sekarang     : Rp1,259,199,492 / $83946.633
+- Prediksi Harga     : Rp1,257,475,750 / $83831.717
+- Selisih            : Rp1,723,742 / $114.916
+📈 Potensi Profit    : -0.14%
+📉 Potensi Loss      : 4.56%
+
+Kesimpulannya       :
+💰 Buying In         : Rp1,265,675,918 / $84378.395
+🎯 Take Profit       : Rp1,344,383,613 / $89625.574
+🚩 Stop Loss         : Rp1,226,322,070 / $81754.805
+Jika modal 100 ribu maka
+Keuntungan            : Rp5,712
+Kerugian              : Rp4,559
+
+Risk Rasio 1:2
+💰 Buying In          : Rp1,265,675,918 / $84378.395
+🚩 Stop Loss          : Rp1,226,322,070 / $81754.805
+🎯 Take Profit        : Rp1,344,383,613 / $89625.574
+Jika modal 100000 ribu maka
+Keuntungan            : Rp6,251
+Kerugian              : Rp3,125
+==============================
